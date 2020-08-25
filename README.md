@@ -1,6 +1,11 @@
 ## COVID-19 Data Visualization App with Python
 Simple web application for data visualization using Python.
 
+## Links
+
+- [Application](http://dashboard-brasil.herokuapp.com/)
+- [LinkedIn article](https://www.linkedin.com/pulse/aplica%C3%A7%C3%A3o-web-para-visualiza%C3%A7%C3%A3o-de-dados-covid-19-jo%C3%A3o-tartaglia-/) (in Portuguese)
+
 ## Motivation
 A lot of Data Science tutorials end inside a Jupyter Notebook, not many of them show the deploy stage.
 
@@ -23,11 +28,6 @@ Although there are some great tutorials in english, I felt the need to contribut
 
 <b>Deployed at</b>
 - [Heroku](https://www.heroku.com/)
-
-## Links
-
-- [Application](http://dashboard-brasil.herokuapp.com/)
-- [LinkedIn article](https://www.linkedin.com/pulse/aplica%C3%A7%C3%A3o-web-para-visualiza%C3%A7%C3%A3o-de-dados-covid-19-jo%C3%A3o-tartaglia-/) (in Portuguese)
 
 ## Other languages
 I'd be glad to provide any help for those interested in this tutorial and/or further translations.
