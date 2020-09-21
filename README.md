@@ -14,7 +14,7 @@ Since web developing isn't a core skill in most Data Analysis roles, it leaves p
 Although there are some great tutorials in english, I felt the need to contribute by writing an article in Brazilian Portuguese.
  
 
-## Tech/framework used
+## Tech used
 
 <b>Built with</b>
 - [Python](https://www.python.org/)
